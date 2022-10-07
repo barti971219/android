@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/drawable_1.xml" value="0.15" />
+        <entry key="app/src/main/res/drawable/number_bg.xml" value="0.151" />
+        <entry key="app/src/main/res/layout/activity_acync.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_addview.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_application_one.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_application_two.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_fragment.xml" value="0.12604166666666666" />
+        <entry key="app/src/main/res/layout/activity_glide.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_homework1.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/activity_homework2.xml" value="0.27447916666666666" />
+        <entry key="app/src/main/res/layout/activity_intent_one.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_intent_two.xml" value="0.22871376811594202" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1911231884057971" />
+        <entry key="app/src/main/res/layout/activity_one.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_phone_book.xml" value="0.1390625" />
+        <entry key="app/src/main/res/layout/activity_resource.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_thread.xml" value="0.10572916666666667" />
+        <entry key="app/src/main/res/layout/activity_three.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/activity_two.xml" value="0.38958333333333334" />
+        <entry key="app/src/main/res/layout/activity_view_control02.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/car_item.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/constraintlayout_1.xml" value="0.2552083333333333" />
+        <entry key="app/src/main/res/layout/constraintlayout_2.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/layout/constraintlayout_3.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/layout/constraintlayout_4.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/layout/constraintlayout_5.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/layout/constraintlayout_6.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/layout/constraintlayout_homework1.xml" value="0.1431159420289855" />
+        <entry key="app/src/main/res/layout/constraintlayout_homework2.xml" value="0.20199275362318841" />
+        <entry key="app/src/main/res/layout/first_fragment.xml" value="0.1796875" />
+        <entry key="app/src/main/res/layout/framlayout.xml" value="0.20199275362318841" />
+        <entry key="app/src/main/res/layout/gravity.xml" value="0.20199275362318841" />
+        <entry key="app/src/main/res/layout/linearlayout.xml" value="0.20199275362318841" />
+        <entry key="app/src/main/res/layout/linearlayout_05.xml" value="0.17391304347826086" />
+        <entry key="app/src/main/res/layout/phonebook_item.xml" value="0.13802083333333334" />
+        <entry key="app/src/main/res/layout/relativelayout.xml" value="0.2552083333333333" />
+        <entry key="app/src/main/res/layout/relativelayout_homework1.xml" value="0.25416666666666665" />
+        <entry key="app/src/main/res/layout/relativelayout_homework2.xml" value="0.20742753623188406" />
+        <entry key="app/src/main/res/layout/resource.xml" value="0.20199275362318841" />
+        <entry key="app/src/main/res/layout/scrollview.xml" value="0.20199275362318841" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
