@@ -17,13 +17,22 @@
         android:theme="@style/Theme.MyApplication"
         tools:targetApi="31">
         <activity
+            android:name=".TablayoutPagerNewActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TablayoutPagerActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RecyclerViewHomework"
+            android:exported="false" />
+        <activity
             android:name=".RecyclerViewActivity"
             android:exported="false" />
         <activity
             android:name=".ListViewActivity"
             android:exported="false" />
         <activity
-            android:name=".RecyclerViewHomework"
+            android:name=".TablayoutPagerSimpleActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
