@@ -28,5 +28,5 @@ class YoutubeItemActivity : AppCompatActivity() {
     // - 사용이 쉽다
     // - DRM
     // - Digital Right Management
-    // - Streaming 
+    // - Streaming
 }
